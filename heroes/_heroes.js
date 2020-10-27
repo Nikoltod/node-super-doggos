@@ -33,4 +33,4 @@ const heroes = [
     }
 ];
 
-export default heroes;
+module.exports = heroes;

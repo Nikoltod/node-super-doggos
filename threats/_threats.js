@@ -22,4 +22,4 @@ const threats = [
     }
 ];
 
-export default threats;
+module.exports = threats;

@@ -17,7 +17,7 @@ app.get('/threats', (req, res) => {
 })
 
 /** 
- * Makes a request to the _heroes service and retrieves the give threat from by id.
+ * Makes a request to the _heroes service and retrieves the threat by id.
  * 
  * e.g : {"heroId": 1, "threatId": 1}
  * */

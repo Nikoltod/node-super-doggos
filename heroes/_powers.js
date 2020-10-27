@@ -6,4 +6,4 @@ const powers = [
     { id: 5, name: 'mind reading' }
 ];
 
-export default powers;
+module.exports = powers;
