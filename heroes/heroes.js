@@ -8,13 +8,11 @@ const powers = require("./_powers");
 
 app.use(bodyParser.json());
 
-/** Retrieves all heroes. */
 app.get('/heroes', (req, res) => {
     console.log('Heroes list.')
     res.send(heroes)
 });
 
-/** Retrieves all powers. */
 app.get('/powers', (req, res) => {
     console.log('Powers list.')
     res.send(powers)

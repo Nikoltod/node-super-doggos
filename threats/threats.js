@@ -10,7 +10,6 @@ app.use(bodyParser.json());
 const heroesService = 'http://localhost:8081';
 const threats = require('./_threats');
 
-/** Retrieves all threats. */
 app.get('/threats', (req, res) => {
     console.log('Threats list.');
     res.send(threats);
