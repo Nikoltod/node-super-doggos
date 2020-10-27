@@ -27,5 +27,9 @@ jobs:
     - run: |
       cd ./heroes
       npm ci
-    - run: npm install
-    - run: npm run build --if-present
+    - run: |
+      cd ./heroes
+      npm install
+    - run: |
+      cd ./heroes
+      npm run build --if-present

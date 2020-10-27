@@ -27,5 +27,9 @@ jobs:
     - run: |
         cd ./threats
         npm ci
-    - run: npm install
-    - run: npm run build --if-present
+    - run: |
+        cd ./threats
+        npm install
+    - run: |
+        cd ./threats
+        npm run build --if-present
