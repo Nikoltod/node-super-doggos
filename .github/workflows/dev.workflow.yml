@@ -1,0 +1,11 @@
+name: Main workflow - runs workflows for both services.
+on:
+  pull_request:
+    types: closed
+    branches:
+      - master
+jobs:
+    heroes_node-build: 
+        name: node-ci-heroes
+    threats_node-build: 
+        name: node-ci-threats 
