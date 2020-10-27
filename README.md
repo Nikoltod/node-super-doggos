@@ -1,8 +1,9 @@
+
 # Node Supper Doggos 
 
 [![NodeJS](https://nodejs.org/static/images/favicons/android-chrome-192x192.png)](https://nodejs.org/en/) [![Express](https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67)](https://expressjs.com/)
 
-[![Actions Status](https://github.com/Nikoltod/node-super-doggos/workflows/node-ci-heroes/badge.svg)](https://github.com/Nikoltod/react-management-app/actions) [![Actions Status](https://github.com/Nikoltod/node-super-doggos/workflows/node-ci-threats/badge.svg)](https://github.com/Nikoltod/react-management-app/actions)
+[![Actions Status](https://github.com/Nikoltod/node-super-doggos/workflows/node-ci-heroes/badge.svg)](https://github.com/Nikoltod/node-supper-doggos/actions) [![Actions Status](https://github.com/Nikoltod/node-super-doggos/workflows/node-ci-threats/badge.svg)](https://github.com/Nikoltod/node-supper-doggos/actions)
 
 Quick little project which showcases how microservices built in Node can communicate.
 
